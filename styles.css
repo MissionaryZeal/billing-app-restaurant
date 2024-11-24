@@ -1,0 +1,149 @@
+:root {
+  --input-border-color: #ccc; 
+  --input-border-radius: 4px; 
+  --input-bg: #f9f9f9; 
+  --input-color: #333; 
+  --light: #ccc; 
+  --body-color: #212529; 
+  --btn-border-radius: 4px; 
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+  header img {
+    width: 120px;
+    height: 120px;
+  }
+  
+  #orderForm, #receipt {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  label {
+    display: block;
+    margin: 5px 0;
+  }
+  
+  #orderList {
+    margin-top: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+
+  .menu-card-body {
+    max-height: calc(100vh - 70px); 
+    overflow-y: auto;
+    scrollbar-width: thin; 
+    scrollbar-color: #ccc #f9f9f9; 
+}
+
+.menu-card-body::-webkit-scrollbar {
+  width: 8px;
+}
+.menu-card-body::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+.menu-card-body::-webkit-scrollbar-track {
+  background: #f9f9f9;
+}
+.input-step {
+  border: 1px solid var(--input-border-color);
+  display: flex;
+  align-items: center; 
+  justify-content: space-between; 
+  height: 37.5px;
+  border-radius: var(--input-border-radius, 0);
+  background: var(--input-bg);
+  padding: 4px;
+}
+
+.input-step input {
+  width: 4em;
+  height: 100%;
+  text-align: center;
+  border: 0;
+  background: transparent;
+  color: var(--input-color);
+  border-radius: var(--input-border-radius);
+ 
+}
+
+.input-step button {
+  width: 1.2em;
+  font-weight: 300;
+  height: 100%; 
+  font-size: 1.2em;
+  background: var(--light);
+  color: var(--body-color);
+  border: none;
+  border-radius: var(--btn-border-radius);
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  margin-top: -2px;
+}
+
+.input-step.light {
+  background: var(--light);
+}
+
+.input-step.light button {
+  background-color: var(--input-bg);
+}
+
+.input-step.light-input {
+  background: var(--light);
+}
+
+.input-step.light-input input {
+  background-color: var(--input-bg);
+}
+
+.input-step.full-width {
+  display: flex;
+  width: 100%;
+}
+
+.input-step.full-width button {
+  flex-shrink: 0;
+}
+
+.input-step.full-width input {
+  flex-grow: 1;
+}
+
+  /* Hide the spin buttons in WebKit browsers */
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }
+
+  /* Hide spin buttons in Firefox */
+  input[type="number"] {
+      -moz-appearance: textfield;
+  }
+
+
+  .form-control:focus-visible, .form-select:focus-visible {
+    outline: 0;
+    box-shadow: none; 
+  }
+
+  

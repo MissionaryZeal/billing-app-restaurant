@@ -1,0 +1,1706 @@
+[
+    {
+        "name": "Black Tea",
+        "price": 20,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Masala Action Tea",
+        "price": 25,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Raw Melon Tea",
+        "price": 25,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Milk Tea",
+        "price": 20,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Signature Milk Tea",
+        "price": 30,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "English Milk Tea",
+        "price": 30,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Green Tea",
+        "price": 25,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Assorted Wellness Tea",
+        "price": 30,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Lemon Honey Tea",
+        "price": 30,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "California Black Coffee",
+        "price": 25,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "English Milk Coffee",
+        "price": 30,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Chocolate Milk Coffee",
+        "price": 50,
+        "category_id": 1,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Virgin Mojito",
+        "price": 99,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Watermelon Mojito",
+        "price": 110,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Strawberry Mojito",
+        "price": 120,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Sky Lagoon",
+        "price": 99,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Blackberry",
+        "price": 99,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Kiwi Martini",
+        "price": 99,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Pink Sea",
+        "price": 99,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Spicy Guava",
+        "price": 120,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "On the Beach",
+        "price": 120,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Green River",
+        "price": 110,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Good Boy",
+        "price": 110,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Good Girl",
+        "price": 110,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Love 72",
+        "price": 120,
+        "category_id": 2,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Chocolate Milk Shake",
+        "price": 139,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Oreo Milk Shake",
+        "price": 139,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Kit Kat Shake",
+        "price": 139,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Dairy Milk Shake",
+        "price": 139,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Chocolate Milk Punch Shake",
+        "price": 119,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Cold Coffee",
+        "price": 119,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Berry Berry Shake",
+        "price": 129,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Kaju & Milk Shake",
+        "price": 139,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Kashmiri Fruit Shake",
+        "price": 139,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Tommy Mango Shake",
+        "price": 119,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Italian Vanilla Shake",
+        "price": 129,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Sky Berry Shake",
+        "price": 129,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Sweetheart Strawberry Shake",
+        "price": 149,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    {
+        "name": "Pina Colada",
+        "price": 119,
+        "category_id": 3,
+        "sub_category_id": null 
+    },
+    { 
+        "name": "Mancho Soup",
+        "price": "90/110",
+        "category_id": 4,
+        "sub_category_id": null
+    },
+    {
+        "name": "Hot & Sour Soup",
+        "price": "99/120",
+        "category_id": 4,
+        "sub_category_id": null
+    },
+    {
+        "name": "Sweet Corn Soup",
+        "price": "99/120",
+        "category_id": 4,
+        "sub_category_id": null
+    },
+    {
+        "name": "Lemon Corrienten Soup",
+        "price": "110/130",
+        "category_id": 4,
+        "sub_category_id": null
+    },
+    {
+        "name": "Clear Soup",
+        "price": "79/100",
+        "category_id": 4,
+        "sub_category_id": null
+    },
+    {
+        "name": "Noodles Soup",
+        "price": "120/130",
+        "category_id": 4,
+        "sub_category_id": null
+    },
+    {
+        "name": "Tomato Soup",
+        "price": 79,
+        "category_id": 4,
+        "sub_category_id": null
+    },
+    {
+        "name": "Cream of Soup",
+        "price": "140/160",
+        "category_id": 4,
+        "sub_category_id": null
+    },
+
+    {
+        "name": "Jumbo Paneer Burger",
+        "price": 145,
+        "category_id": 5,
+        "sub_category_id": 1
+    },
+    {
+        "name": "Paneer Butter Masala Burger",
+        "price": 169,
+        "category_id": 5,
+        "sub_category_id": 1
+    },
+    {
+        "name": "Peri Peri Paneer Pizza",
+        "price": 239,
+        "category_id": 5,
+        "sub_category_id": 1
+    },
+    {
+        "name": "Paneer Tikka Pizza",
+        "price": 259,
+        "category_id": 5,
+        "sub_category_id": 1
+    },
+    {
+        "name": "Corn & Mushroom Pizza",
+        "price": 239,
+        "category_id": 5,
+        "sub_category_id": 1
+    },
+    {
+        "name": "Cheese and Corn Pizza",
+        "price": 199,
+        "category_id": 5,
+        "sub_category_id": 1
+    },
+   
+    {
+        "name": "Peri Peri Chicken Pizza",
+        "price": 249,
+        "category_id": 5,
+        "sub_category_id": 2
+    },
+    {
+        "name": "Margherita Pizza",
+        "price": 169,
+        "category_id": 5,
+        "sub_category_id": 2
+    },
+    {
+        "name": "Chicken Tikka Pizza",
+        "price": 219,
+        "category_id": 5,
+        "sub_category_id": 2
+    },
+    {
+        "name": "Chicken White Sauce Pizza",
+        "price": 239,
+        "category_id": 5,
+        "sub_category_id": 2
+    },
+    {
+        "name": "Chicken Achari Pizza",
+        "price": 239,
+        "category_id": 5,
+        "sub_category_id": 2
+    },
+    {
+        "name": "Roasted Chicken Pizza",
+        "price": 249,
+        "category_id": 5,
+        "sub_category_id": 2
+    },
+    {
+        "name": "Jesi Jesi Chicken Burger",
+        "price": 149,
+        "category_id": 5,
+        "sub_category_id": 2
+    },
+    {
+        "name": "Crunchy Chicken Burger",
+        "price": 139,
+        "category_id": 5,
+        "sub_category_id": 2
+    },
+    {
+        "name": "Egg Chicken Burger",
+        "price": 119,
+        "category_id": 5,
+        "sub_category_id": 2
+    },
+    {
+        "name": "Grill Chicken Sandwich",
+        "price": 119,
+        "category_id": 6,
+        "sub_category_id": null
+    },
+    {
+        "name": "Chicken Tikka Sandwich",
+        "price": 129,
+        "category_id": 6,
+        "sub_category_id": null
+    },
+    {
+        "name": "Paneer Sandwich",
+        "price": 109,
+        "category_id": 6,
+        "sub_category_id": null
+    },
+    {
+        "name": "Corn & Mushroom Sandwich",
+        "price": 129,
+        "category_id": 6,
+        "sub_category_id": null
+    },
+   
+     {
+            "name": "White Sauce Pasta (Veg)",
+            "price": 149,
+            "category_id": 7,
+            "sub_category_id": null
+        },
+        {
+            "name": "White Sauce Pasta (Chicken)",
+            "price": 179,
+            "category_id": 7,
+            "sub_category_id": null
+        },
+        {
+            "name": "Red Sauce Pasta (Veg)",
+            "price": 159,
+            "category_id": 7,
+            "sub_category_id": null
+        },
+        {
+            "name": "Red Sauce Pasta (Chicken)",
+            "price": 189,
+            "category_id": 7,
+            "sub_category_id": null
+        },
+        {
+            "name": "Spaghetti Red Sauce (Veg)",
+            "price": 179,
+            "category_id": 7,
+            "sub_category_id": null
+        },
+        {
+            "name": "Spaghetti Red Sauce (Chicken)",
+            "price": 199,
+            "category_id": 7,
+            "sub_category_id": null
+        },
+        {
+            "name": "Spaghetti White Sauce (Veg)",
+            "price": 169,
+            "category_id": 7,
+            "sub_category_id": null
+        },
+        {
+            "name": "Spaghetti White Sauce (Chicken)",
+            "price": 189,
+            "category_id": 7,
+            "sub_category_id": null
+        },
+        {
+            "name": "Chicken Tikka Roll",
+            "price": 99,
+            "category_id": 8,
+            "sub_category_id": null
+        },
+        {
+            "name": "Chicken Reshmi Tikka Roll",
+            "price": 110,
+            "category_id": 8,
+            "sub_category_id": null
+        },
+        {
+            "name": "Chicken Wrap",
+            "price": 120,
+            "category_id": 8,
+            "sub_category_id": null
+        },
+        {
+            "name": "Paneer Tikka Roll",
+            "price": 99,
+            "category_id": 8,
+            "sub_category_id": null
+        },
+        {
+            "name": "Paneer Malai Tikka Roll",
+            "price": 110,
+            "category_id": 8,
+            "sub_category_id": null
+        },
+        {
+            "name": "Paneer Wrap",
+            "price": 120,
+            "category_id": 8,
+            "sub_category_id": null
+        },
+        {
+            "name": "Chicken Spring Roll",
+            "price": 155,
+            "category_id": 8,
+            "sub_category_id": null
+        },
+        {
+            "name": "Veg Spring Roll",
+            "price": 125,
+            "category_id": 8,
+            "sub_category_id": null
+        },
+        {
+            "name": "Steam Momos (5pcs)",
+            "price": "99/109",
+            "category_id": 9,
+            "sub_category_id": null
+        },
+        {
+            "name": "Fried Momos (5pcs)",
+            "price": "120/140",
+            "category_id": 9,
+            "sub_category_id": null
+        },
+        {
+            "name": "Pan Fried Momos (5pcs)",
+            "price": "120/140",
+            "category_id": 9,
+            "sub_category_id": null
+        },
+        {
+            "name": "Tandoori Momos (5pcs)",
+            "price": "130/150",
+            "category_id": 9,
+            "sub_category_id": null
+        },
+        {
+            "name": "Non Veg Sizzler",
+            "price": "380",
+            "category_id": 10,
+            "sub_category_id": null
+        },
+        {
+            "name": "Veg Sizzler",
+            "price": "350",
+            "category_id": 10,
+            "sub_category_id": null
+        },
+        {
+            "name": "Tandoori Sizzler",
+            "price": "380",
+            "category_id": 10,
+            "sub_category_id": null
+        },
+        {
+            "name": "Chicken Pakora (8pcs)",
+            "price": "199",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Chicken Lollipop (6pcs)",
+            "price": "219",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Drums of Heaven",
+            "price": "249",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Chicken Salt & Pepper",
+            "price": "229",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Chicken Butter Garlic",
+            "price": "229",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Chicken Butter Fry",
+            "price": "219",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Lemon Chicken (8pcs)",
+            "price": "219",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Chicken 65 (8pcs)",
+            "price": "229",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Chilli Chicken Dry (8pcs)",
+            "price": "209",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Chicken Garlic Sauce (8pcs)",
+            "price": "209",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Crispy Chicken",
+            "price": "189",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+            "name": "Schezwan Chicken",
+            "price": "209",
+            "category_id": 11,
+            "sub_category_id": 2
+        },
+        {
+    "name": "Veg Pakora (8pcs)",
+    "price": "159",
+    "category_id": 11,
+    "sub_category_id": 1
+   },
+   {
+    "name": "French Fries",
+    "price": "110",
+    "category_id": 11,
+    "sub_category_id": 1
+  },
+{
+    "name": "Paneer Pakora (8pcs)",
+    "price": "189",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Honey Chilli Potato",
+    "price": "159",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Crispy Chilli Baby Corn",
+    "price": "179",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Corn Salt and Pepper",
+    "price": "159",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Corn Butter Fry",
+    "price": "159",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Paneer Chilli Dry/Gravy",
+    "price": "220/239",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Paneer 65",
+    "price": "239",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Paneer Salt and Pepper",
+    "price": "229",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Paneer Schezwan",
+    "price": "229",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Veg Manchurian Dry/Gravy",
+    "price": "159/179",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "Mushroom Chilli Dry/Gravy",
+    "price": "169/189",
+    "category_id": 11,
+    "sub_category_id": 1
+},
+{
+    "name": "fried chicken",
+    "price": "190",
+    "category_id": 12,
+    "sub_category_id": 2
+}  ,
+{
+    "name": "Boneless Strips (3pcs)",
+    "price": "129",
+    "category_id": 12,
+    "sub_category_id": 2
+},
+{
+    "name": "Leg Fried Chicken (2pcs)",
+    "price": "199",
+    "category_id": 12,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Wings (3pcs)",
+    "price": "175",
+    "category_id": 12,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken popcorn",
+    "price": "190",
+    "category_id": 12,
+    "sub_category_id": 2
+},
+{
+    "name": "Fish Chilli Dry/Gravy",
+    "price": "299/319",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Fish 65 Dry",
+    "price": "310",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Fish Salt and Pepper",
+    "price": "310",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Fish Garlic Sauce",
+    "price": "320",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Fish Finger (8pcs)",
+    "price": "260",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Fish Kobiraj (1pcs)",
+    "price": "139",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Fish Fry (1pcs)",
+    "price": "139",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Prawns Chilli",
+    "price": "269",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Prawns Salt and Pepper",
+    "price": "290",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Prawns Butter Garlic",
+    "price": "299",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Hot Garlic Prawns",
+    "price": "299",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Gondhoraj Prawns",
+    "price": "319",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Octopus Chilli",
+    "price": "269",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Octopus 65",
+    "price": "279",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Octopus Manchurian",
+    "price": "269",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Octopus Schezwan",
+    "price": "299",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Octopus Hot Garlic Sauce",
+    "price": "299",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Skyreels Special Lobster (1pcs)",
+    "price": "1199",
+    "category_id": 13,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Tikka (6pcs)",
+    "price": "180",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Achari Tikka (6pcs)",
+    "price": "190",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Ajwaini Tikka (6pcs)",
+    "price": "190",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Reshmi (6pcs)",
+    "price": "210",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Malai (6pcs)",
+    "price": "210",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Tangdi Kebab (2pcs)",
+    "price": "280",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Alishan (2pcs)",
+    "price": "299",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Onion",
+    "price": "350/650",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Tandoori Chicken",
+    "price": "250/450",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Banzara (6pcs)",
+    "price": "199",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Silly Kebab (6pcs)",
+    "price": "180",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Sheek Kebab (6pcs)",
+    "price": "180",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Pahadi Kebab (6pcs)",
+    "price": "210",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Chicken Lahori Kebab (6pcs)",
+    "price": "190",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+
+{
+    "name": "Mutton Sheek Kebab (6pcs)",
+    "price": "280",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Mutton Burra Kebab (3pcs)",
+    "price": "420",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Mutton Shenha Kebab (3pcs)",
+    "price": "420",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Mutton Rezala Kebab (3pcs)",
+    "price": "450",
+    "category_id": 14,
+    "sub_category_id": 2
+},
+{
+    "name": "Fish Tikka (6pcs)",
+    "price": "279",
+    "category_id": 15,
+    "sub_category_id": 2
+},
+{
+    "name": "Fish Achari Tikka (6pcs)",
+    "price": "289",
+    "category_id": 15,
+    "sub_category_id": 2
+},
+{
+    "name": "Gondhoraj Fish Tikka (6pcs)",
+    "price": "309",
+    "category_id": 15,
+    "sub_category_id": 2
+},
+{
+    "name": "Tandoori Prawns (2pcs)",
+    "price": "245",
+    "category_id": 15,
+    "sub_category_id": 2
+},
+{
+    "name": "Tandoori Pomfret (1pcs)",
+    "price": "220",
+    "category_id": 15,
+    "sub_category_id": 2
+},
+{
+    "name": "Plain Dosa",
+    "price": "90",
+    "category_id": 16,
+    "sub_category_id": null
+},
+{
+    "name": "Masala Dosa",
+    "price": "120",
+    "category_id": 16,
+    "sub_category_id": null
+},
+{
+    "name": "Butter Masala Dosa",
+    "price": "149",
+    "category_id": 16,
+    "sub_category_id": null
+},
+{
+    "name": "Paneer Dosa",
+    "price": "179",
+    "category_id": 16,
+    "sub_category_id": null
+},
+{
+    "name": "Cheese Dosa",
+    "price": "219",
+    "category_id": 16,
+    "sub_category_id": null
+},
+{
+    "name": "Cheese Pizza Dosa",
+    "price": "249",
+    "category_id": 16,
+    "sub_category_id": null
+},
+{
+    "name": "Skyreels Special Uttapam",
+    "price": "149",
+    "category_id": 16,
+    "sub_category_id": null
+},
+{
+    "name": "Veg hakka noodles",
+    "price": "110",
+    "category_id": 17,
+    "sub_category_id": null
+},
+{
+    "name": "Egg hakka noodles",
+    "price": "130",
+    "category_id": 17,
+    "sub_category_id": null
+},
+{
+    "name": "Chicken hakka noodles",
+    "price": "150",
+    "category_id": 17,
+    "sub_category_id": null
+},
+{
+    "name": "Mix hakka noodles",
+    "price": "170",
+    "category_id": 17,
+    "sub_category_id": null
+},
+{
+    "name": "Veg schezwan noodles",
+    "price": "130",
+    "category_id": 17,
+    "sub_category_id": null
+},
+{
+    "name": "Egg schezwan noodles",
+    "price": "150",
+    "category_id": 17,
+    "sub_category_id": null
+},
+{
+    "name": "Chicken schezwan noodles",
+    "price": "170",
+    "category_id": 17,
+    "sub_category_id": null
+},
+{
+    "name": "Mix schezwan noodles",
+    "price": "190",
+    "category_id": 17,
+    "sub_category_id": null
+},
+{
+    "name": "Sky reels special",
+    "price": "220",
+    "category_id": 17,
+    "sub_category_id": null
+},
+{
+    "name": "roti",
+    "price": "30",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "roti (butter)",
+    "price": "35",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "naan",
+    "price": "50",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "naan (garlic)",
+    "price": "80",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "naan (butter)",
+    "price": "60",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "lachha paratha",
+    "price": "60",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "plain kulcha",
+    "price": "65",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "masala kulcha",
+    "price": "90",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "paneer kulcha",
+    "price": "90",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "alo paratha",
+    "price": "80",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "chicken keema paratha",
+    "price": "139",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "skyreels spacial busket",
+    "price": "349",
+    "category_id": 18,
+    "sub_category_id": null
+},
+{
+    "name": "steam rice",
+    "price": "99",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "jeera rice",
+    "price": "110",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "piece pulao",
+    "price": "139",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "veg pulao",
+    "price": "149",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "kashmiri pulao",
+    "price": "149",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "basmati pulao",
+    "price": "149",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "veg biryani",
+    "price": "149",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "chicken biryani",
+    "price": "189",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "mutton biryani",
+    "price": "279",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "skyreels spacial biryani",
+    "price": "320",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "veg fried rice",
+    "price": "110",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "Egg fried rice",
+    "price": "130",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "chicken fried rice",
+    "price": "150",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "Mix fried rice",
+    "price": "190",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "Veg schezwan rice",
+    "price": "130",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "Egg schezwan rice",
+    "price": "150",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "Chicken schezwan rice",
+    "price": "170",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "Mix schezwan fried rice",
+    "price": "210",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "Sky reels special rice",
+    "price": "250",
+    "category_id": 19,
+    "sub_category_id": null
+},
+{
+    "name": "chicken curry (4pcs)",
+    "price": "210",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken masala (4pcs)",
+    "price": "250",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken kosa (4pcs)",
+    "price": "230",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken do pyaza (4pcs)",
+    "price": "260",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken kadai (4pcs)",
+    "price": "280",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken rezala (4pcs)",
+    "price": "250",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken rara (4pcs)",
+    "price": "290",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "butter chicken masala (4pcs)",
+    "price": "230",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken bharta",
+    "price": "190",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken tangri masala (3pcs)",
+    "price": "380",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken bhuna (4pcs)",
+    "price": "250",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken maratha (4pcs)",
+    "price": "250",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken malvani (4pcs)",
+    "price": "260",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken hyderabadi (4pcs)",
+    "price": "260",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "andhra chicken curry (4pcs)",
+    "price": "240",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken tikka masala (6pcs)",
+    "price": "280",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "punjabi tikka masala (4pcs)",
+    "price": "280",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken kofta (2pcs)",
+    "price": "250",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken chaap (2pcs)",
+    "price": "180",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken handi (4pcs)",
+    "price": "280",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "chicken changezi (4pcs)",
+    "price": "260",
+    "category_id": 20,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton kosa (3pcs)",
+    "price": "310",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton curry (3pcs)",
+    "price": "310",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton do pyaza (3pcs)",
+    "price": "340",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton handi (3pcs)",
+    "price": "370",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton kadai (3pcs)",
+    "price": "370",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton rara (3pcs)",
+    "price": "410",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton bhuna",
+    "price": "380",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton hyderabadi (3pcs)",
+    "price": "380",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton achary masala (3pcs)",
+    "price": "350",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton rogan josh (3pcs)",
+    "price": "350",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton nihari (3pcs)",
+    "price": "380",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton tawa masala (3pcs)",
+    "price": "400",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "mutton shish kebab masala (4pcs)",
+    "price": "390",
+    "category_id": 21,
+    "sub_category_id": 2
+},
+{
+    "name": "dal fry",
+    "price": "130",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "dal makhani",
+    "price": "160",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "mix veg",
+    "price": "160",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "veg kadai",
+    "price": "190",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "veg jhal frenzy",
+    "price": "190",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "mashroom masala",
+    "price": "250",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "mashroom pie masala",
+    "price": "270",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "mashroom do pyaza",
+    "price": "270",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "mashroom kadai",
+    "price": "290",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "mashroom paneer",
+    "price": "290",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "mumtaz paneer",
+    "price": "270",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "paneer butter masala",
+    "price": "230",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "paneer masala",
+    "price": "230",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "paneer kadai",
+    "price": "280",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "paneer do pyaza",
+    "price": "280",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "paneer lababdar",
+    "price": "280",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "soﬁyana tikka masala (4pcs)",
+    "price": "320",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "paneer tikka masala (4pcs)",
+    "price": "320",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "paneer handi",
+    "price": "299",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "paneer malai kofta (2pcs)",
+    "price": "320",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "kashmiri aloo dum",
+    "price": "149",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "jeera aloo",
+    "price": "120",
+    "category_id": 22,
+    "sub_category_id": 1
+},
+{
+    "name": "chocolate chips ice cream",
+    "price": "99",
+    "category_id": 23,
+    "sub_category_id": null
+},
+{
+    "name": "little vanilla ice cream",
+    "price": "99",
+    "category_id": 23,
+    "sub_category_id": null
+},
+{
+    "name": "African butterscotch",
+    "price": "120",
+    "category_id": 23,
+    "sub_category_id": null
+},
+{
+    "name": "sunny strawberry ice cream",
+    "price": "99",
+    "category_id": 23,
+    "sub_category_id": null
+},
+{
+    "name": "gulab jamun",
+    "price": "110",
+    "category_id": 23,
+    "sub_category_id": null
+},
+{
+    "name": "butterscotch",
+    "price": "120",
+    "category_id": 23,
+    "sub_category_id": null
+},
+{
+    "name": "Leela rasgulla ice cream",
+    "price": "110",
+    "category_id": 23,
+    "sub_category_id": null
+},
+{
+    "name": "tuti futi ice cream",
+    "price": "120",
+    "category_id": 23,
+    "sub_category_id": null
+},
+{
+    "name": "real culture ice cream",
+    "price": "120",
+    "category_id": 23,
+    "sub_category_id": null
+},
+{
+    "name": "Vanilla rasmalai",
+    "price": "99",
+    "category_id": 24,
+    "sub_category_id": null
+},
+{
+    "name": "Gangaram gulab jamun (3pcs)",
+    "price": "99",
+    "category_id": 24,
+    "sub_category_id": null
+},
+{
+    "name": "Murshidabad rasgulla (3pcs)",
+    "price": "120",
+    "category_id": 24,
+    "sub_category_id": null
+},
+
+{
+    "name": "Fuchka (8pcs) + 2 type water",
+    "price": "99/109",
+    "category_id": 25,
+    "sub_category_id": null
+},
+{
+    "name": "Papdi chaat",
+    "price": "120/140",
+    "category_id": 25,
+    "sub_category_id": null
+},
+{
+    "name": "Raj kachori",
+    "price": "120/140",
+    "category_id": 25,
+    "sub_category_id": null
+},
+{
+    "name": "Palak patta chaat",
+    "price": "130/150",
+    "category_id": 25,
+    "sub_category_id": null
+},
+{
+    "name": "Aloo tikki chaat",
+    "price": "380",
+    "category_id": 25,
+    "sub_category_id": null
+},
+{
+    "name": "Velpuri",
+    "price": "350",
+    "category_id": 25,
+    "sub_category_id": null
+},
+{
+    "name": "Pav bhaji",
+    "price": "120",
+    "category_id": 25,
+    "sub_category_id": null
+},
+{
+    "name": "Vada pav",
+    "price": "70",
+    "category_id": 25,
+    "sub_category_id": null
+}
+ 
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "Tea & Coffee",
+        "sub_categories": null
+    },
+    {
+        "id": 2,
+        "name": "Mocktail",
+        "sub_categories": null
+    },
+    {
+        "id": 3,
+        "name": "Shake",
+        "sub_categories": null
+    },
+    {
+        "id": 4,
+        "name": "Soup",
+        "sub_categories":  ["both"]
+    },
+    {
+        "id": 5,
+        "name": "Pizza & Burger",
+        "sub_categories":  [1,2]
+    },
+    {
+        "id": 6,
+        "name": "Sandwich",
+        "sub_categories":  null
+    },
+    {
+        "id": 7,
+        "name": "Pasta",
+        "sub_categories":  null
+    },
+    {
+        "id": 8,
+        "name": "Roll",
+        "sub_categories":  null
+    },
+    {
+        "id": 9,
+        "name": "Momos",
+        "sub_categories":  ["both"]
+    },
+    {
+        "id": 10,
+        "name": "Sizzler",
+        "sub_categories":  null
+    },
+    {
+        "id": 11,
+        "name": "Starter",
+        "sub_categories":  [1,2]
+    },
+    {
+        "id": 12,
+        "name": "Fried chicken",
+        "sub_categories":  null
+    },
+    {
+        "id": 13,
+        "name": "Starter (c-foods)",
+        "sub_categories":  null
+    },
+    {
+        "id": 14,
+        "name": "Tandoori zaika kebab",
+        "sub_categories":  null
+    },
+    {
+        "id": 15,
+        "name": "Starter Tandoori zaika (c-foods)",
+        "sub_categories":  null
+    },
+    {
+        "id": 16,
+        "name": "South indian",
+        "sub_categories":  null
+    },
+    {
+        "id": 17,
+        "name": "Noodles",
+        "sub_categories":  null
+    },
+    {
+        "id": 18,
+        "name": "Tandoori indian bread (Roti)",
+        "sub_categories":  null
+    },
+    {
+        "id": 19,
+        "name": "Rice",
+        "sub_categories":  null
+    },
+    {
+        "id": 20,
+        "name": "Main Course (indian) Chicken",
+        "sub_categories":  null
+    },
+    {
+        "id": 21,
+        "name": "Main Course (indian) Mutton",
+        "sub_categories":  null
+    },
+    {
+        "id": 22,
+        "name": "Main Course (indian) Veg",
+        "sub_categories":  null
+    },
+    {
+        "id": 23,
+        "name": "Ice creem",
+        "sub_categories":  null
+    },
+    {
+        "id": 24,
+        "name": "Dessert",
+        "sub_categories":  null
+    },
+    {
+        "id": 25,
+        "name": "Chaat",
+        "sub_categories":  null
+    }
+
+]

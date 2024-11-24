@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="icon" type="image/x-icon" href="assets/logo.ico" />
+        <title>Skyreels Cafe Billing</title>
+        <style>
+            :root {
+                --main-color: yellow !important;
+            }
+            body {
+                font-family: Arial, sans-serif;
+            }
+
+            .header-part h1 {
+                font-size: 36px;
+                font-weight: 900;
+                font-family: "Poppins", sans-serif;
+                letter-spacing: 2px;
+                text-align: center;
+                margin-bottom: -10px;
+                color: #000;
+            }
+
+            .sub-heading {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-top: 8px;
+                font-family: "Roboto", sans-serif;
+            }
+
+            .sub-heading .invoice-logo {
+                width: 120px;
+                object-fit: contain;
+            }
+
+            .sub-heading div:first-child {
+                width: 85%;
+            }
+
+            .sub-heading .address span {
+                font-size: 15px;
+                font-weight: 500;
+                line-height: 1.6;
+                color: #000;
+            }
+
+            .header-part {
+                margin: -15px 0 0 15px;
+                padding-bottom: 10px;
+            }
+
+            .details {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                font-family: "Roboto", sans-serif;
+                background-color: #f9f9f9;
+                border: 1px solid #e0e0e0;
+                border-radius: 8px;
+                padding: 10px 20px;
+                margin-top: 12px;
+                /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+            }
+
+            .details div {
+                font-size: 16px;
+                color: #000;
+            }
+
+            .details strong {
+                font-weight: 700;
+                color: #000;
+            }
+
+            .items-part {
+                width: 100%;
+                border-collapse: collapse;
+                margin: 20px 0;
+            }
+            .items-part,
+            .items-part th,
+            .items-part td {
+                border: 1px solid black;
+            }
+            th,
+            .items-part td {
+                padding: 10px;
+                text-align: center;
+            }
+            .items-part th {
+                background-color: #f4f4f4;
+            }
+            .text-right {
+                text-align: right !important;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="header-part">
+            <h1>Skyreels Cafe 72</h1>
+            <div class="sub-heading">
+                <div>
+                    <img src="" alt="Logo" class="invoice-logo" />
+                </div>
+                <div class="address">
+                    <span>
+                        Kandi (Dohalia Kalibari Bypass Road),Murshidabad,742137
+                        <br />
+
+                        দোহালিয়া কালীবাড়ি বাইপাস<br />
+                        Phone: +91-9046241021
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="details">
+            <div><strong>Invoice No:</strong> SRC72-</div>
+            <div><strong>Invoice Date:</strong> 2022-01-01</div>
+        </div>
+        <table class="items-part">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Item</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody id="invoice-items"></tbody>
+            <tfoot id="tfoot-item"></tfoot>
+        </table>
+        <p style="text-align: center">Thank you for your time!</p>
+    </body>
+</html>
